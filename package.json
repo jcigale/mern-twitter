@@ -1,0 +1,23 @@
+{
+  "name": "mern-twitter",
+  "version": "1.0.0",
+  "description": "mern twitter clone",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcigale/mern-twitter.git"
+  },
+  "keywords": [
+    "mern",
+    "twitter"
+  ],
+  "author": "John Cigale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcigale/mern-twitter/issues"
+  },
+  "homepage": "https://github.com/jcigale/mern-twitter#readme"
+}
